@@ -98,9 +98,13 @@ export default function About() {
                 </div>
             </div>
 
-            <a href="/attached_assets/Profile (11)_1763924607756.pdf" download className="mt-10 w-full py-3 border border-white/20 text-white font-bold uppercase tracking-wider font-ui hover:bg-white hover:text-black transition-all duration-300 text-center block">
-              Download Full Resume
-            </a>
+            <a 
+  href="/resume.pdf" 
+  download 
+  className="mt-10 w-full py-3 border border-white/20 text-white font-bold uppercase tracking-wider font-ui hover:bg-white hover:text-black transition-all duration-300 text-center block"
+>
+  Download Full Resume
+</a>
           </div>
         </div>
       </div>
